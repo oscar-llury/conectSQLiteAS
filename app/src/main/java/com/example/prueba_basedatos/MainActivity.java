@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    //metodo para dar de alta
+    //metodo para añadir jugador
     public void Registrar (View view){
         AdminSQLiteOpenHelper BBDD = new AdminSQLiteOpenHelper(this, "RankingJugadores", null, 1);
         //abrir la base de datos modo escritura y lectura
