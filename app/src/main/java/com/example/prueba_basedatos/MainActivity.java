@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    //metodo para eliminar
+    //metodo para eliminar un jugador
 
     public void Eliminar(View view){
         AdminSQLiteOpenHelper BBDD = new AdminSQLiteOpenHelper(this, "ranking", null,1);
