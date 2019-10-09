@@ -1,0 +1,4 @@
+#Wed Oct 09 22:28:19 CEST 2019
+base.0=C\:\\Users\\Oscar\\Documents\\GitKraken\\conectSQLiteAS\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
