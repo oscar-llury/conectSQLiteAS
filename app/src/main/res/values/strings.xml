@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">prueba_basedatos</string>
+    <string name="txt_nombre">Nombre del jugador</string>
+    <string name="txt_puntuacion">Puntuacion de la partida</string>
+    <string name="boton_registrar">Registrar</string>
+    <string name="boton_buscar">Buscar</string>
+    <string name="boton_eliminar">Eliminar</string>
+    <string name="boton_modificar">Modificar</string>
+
+</resources>
