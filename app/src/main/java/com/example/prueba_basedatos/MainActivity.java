@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    //metodo para consultar
+    //metodo para consultar el ranking
     public void Buscar (View view){
         AdminSQLiteOpenHelper BBDD = new AdminSQLiteOpenHelper(this, "ranking", null,1);
 
